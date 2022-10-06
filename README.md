@@ -150,3 +150,8 @@ Monty Files:
 -   Implement the div opcode.
 -   The div opcode
 -   The opcode div divides the second top element of the stack by the top element of the stack.
+
+### 8. mul
+-   Implement the mul opcode.
+-   The mul opcode
+-   The opcode mul multiplies the second top element of the stack with the top element of the stack.
