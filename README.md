@@ -140,3 +140,9 @@ Monty Files:
 -   Implement the nop opcode.
 -   The nop opcode
 -   The opcode nop doesn’t do anything.
+
+### 6. sub
+-   Implement the sub opcode.
+-   The sub opcode
+-   The opcode sub subtracts the top element of the stack from the second top element of the stack.
+
