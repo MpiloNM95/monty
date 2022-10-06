@@ -29,3 +29,25 @@ What you should learn from this project:
 * What are the common implementations of stacks and queues
 * What are the most common use cases of stacks and queues
 * What is the proper way to use global variables
+
+### Intructions basics
+
+-   Compiling the program: `gcc -Wall -Werror -Wextra -pedantic *.c -o monty`
+
+-   File Monty:
+```
+julien@ubuntu:~/monty$ cat -e bytecodes/000.m
+push 0$
+push 1$
+push 2$
+  push 3$
+                   pall    $
+push 4$
+    push 5    $
+      push    6        $
+pall$
+julien@ubuntu:~/monty$
+```
+-   Struct:
+```
+
