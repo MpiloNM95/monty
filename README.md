@@ -108,3 +108,10 @@ Monty Files:
 -   Don’t forget to push your header file
 -   YouAll your header files should be include guarded
 -   You are expected to do the tasks in the order shown in the project
+
+## Tasks
+
+### 0. push, pall
+-   SimpleImplement the push and pall opcodes.
+-   The push opcode
+-   The opcode push pushes an element to the stack.
