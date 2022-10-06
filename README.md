@@ -125,3 +125,8 @@ Monty Files:
 -   Implement the pop opcode.
 -   The pop opcode
 -   The opcode pop removes the top element of the stack
+
+### 3. swap
+-   Implement the swap opcode.
+-   The swap opcode
+-   The opcode swap swaps the top two elements of the stack.
