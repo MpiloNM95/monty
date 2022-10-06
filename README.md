@@ -155,3 +155,8 @@ Monty Files:
 -   Implement the mul opcode.
 -   The mul opcode
 -   The opcode mul multiplies the second top element of the stack with the top element of the stack.
+
+### 9. mod
+-   Implement the mod opcode.
+-   The mod opcode
+-   The opcode mod computes the rest of the division of the second top element of the stack by the top element of the stack.
