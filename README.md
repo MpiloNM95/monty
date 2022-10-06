@@ -120,3 +120,8 @@ Monty Files:
 -  Implement the pint opcode.
 -   The pint opcode
 -   The opcode pint prints the value at the top of the stack, followed by a new line.
+
+### 2. pop
+-   Implement the pop opcode.
+-   The pop opcode
+-   The opcode pop removes the top element of the stack
