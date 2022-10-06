@@ -168,3 +168,8 @@ Monty Files:
 -   Implement the pchar opcode.
 -   The pchar opcode
 -   The opcode pchar prints the char at the top of the stack, followed by a new line.
+
+### 12. pstr #advanced
+-   TheImplement the pstr opcode.
+-   The pstr opcode
+-   The opcode pstr prints the string starting at the top of the stack, followed by a new line.
