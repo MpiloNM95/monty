@@ -146,3 +146,7 @@ Monty Files:
 -   The sub opcode
 -   The opcode sub subtracts the top element of the stack from the second top element of the stack.
 
+### 7. div
+-   Implement the div opcode.
+-   The div opcode
+-   The opcode div divides the second top element of the stack by the top element of the stack.
