@@ -160,3 +160,6 @@ Monty Files:
 -   Implement the mod opcode.
 -   The mod opcode
 -   The opcode mod computes the rest of the division of the second top element of the stack by the top element of the stack.
+
+### 10. comments
+-   ImplementEvery good language comes with the capability of commenting. When the first non-space character of a line is #, treat this line as a comment (don’t do anything).
