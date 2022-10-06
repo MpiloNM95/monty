@@ -130,3 +130,8 @@ Monty Files:
 -   Implement the swap opcode.
 -   The swap opcode
 -   The opcode swap swaps the top two elements of the stack.
+
+### 4. add
+-   SimpleImplement the add opcode.
+-   The add opcode
+-   The opcode add adds the top two elements of the stack.
