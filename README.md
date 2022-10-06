@@ -163,3 +163,8 @@ Monty Files:
 
 ### 10. comments
 -   ImplementEvery good language comes with the capability of commenting. When the first non-space character of a line is #, treat this line as a comment (don’t do anything).
+
+### 11. pchar
+-   Implement the pchar opcode.
+-   The pchar opcode
+-   The opcode pchar prints the char at the top of the stack, followed by a new line.
