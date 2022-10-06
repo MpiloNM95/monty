@@ -115,3 +115,8 @@ Monty Files:
 -   SimpleImplement the push and pall opcodes.
 -   The push opcode
 -   The opcode push pushes an element to the stack.
+
+### 1. pint
+-  Implement the pint opcode.
+-   The pint opcode
+-   The opcode pint prints the value at the top of the stack, followed by a new line.
