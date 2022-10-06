@@ -169,7 +169,21 @@ Monty Files:
 -   The pchar opcode
 -   The opcode pchar prints the char at the top of the stack, followed by a new line.
 
-### 12. pstr #advanced
+### 12. pstr 
 -   TheImplement the pstr opcode.
 -   The pstr opcode
 -   The opcode pstr prints the string starting at the top of the stack, followed by a new line.
+
+### 13. rotl 
+-   TheImplement the rotl opcode.
+-   The rotl opcode
+-   The opcode rotl rotates the stack to the top.
+
+### 14. rotr
+-   Implement the rotr opcode.
+-   The rotr opcode
+-   The opcode rotr rotates the stack to the bottom.
+
+## Autors
+
+* **Mpilo Mafu** - [MpiloNM95] (https://github.com/MpiloNM95)
