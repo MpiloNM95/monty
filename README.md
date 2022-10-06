@@ -135,3 +135,8 @@ Monty Files:
 -   SimpleImplement the add opcode.
 -   The add opcode
 -   The opcode add adds the top two elements of the stack.
+
+### 5. nop
+-   Implement the nop opcode.
+-   The nop opcode
+-   The opcode nop doesn’t do anything.
